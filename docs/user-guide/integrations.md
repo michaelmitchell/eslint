@@ -13,6 +13,7 @@
 * Atom: [linter-eslint](https://atom.io/packages/linter-eslint)
 * [IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, 0xDBE](https://plugins.jetbrains.com/plugin/7494-eslint)
 * [Visual Studio Code](https://code.visualstudio.com) with the [ESLint Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [Cloud9 IDE](https://c9.io) with [c9.ide.language.javascript.eslintd](https://github.com/michaelmitchell/c9.ide.language.javascript.eslintd)
 
 ## Build tools
 
